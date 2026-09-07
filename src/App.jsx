@@ -9,7 +9,7 @@ import MemoryVault from "./assets/Pages/MemoryGallery";
 import Quiz from "./assets/Pages/Quiz";
 import TestComplete from "./assets/Pages/Testcomplete";
 import Gift from "./assets/Pages/Gift";
-import FinalMessage from "./assets/Pages/FinalMessage";
+import FinalMessage from "./assets/Pages/FInalMessage";
 
 
 import PageTransition from "./assets/Components/PageTransition";
