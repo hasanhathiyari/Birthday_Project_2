@@ -1,6 +1,6 @@
 import BackgroundEffects from "../Components/BackgroundEffects";
 
-const FinalMessage = () => {
+const Fmessage = () => {
   return (
     <section className="mission-page final-page">
       <BackgroundEffects />
@@ -69,4 +69,4 @@ const FinalMessage = () => {
   );
 };
 
-export default FinalMessage;
+export default Fmessage;

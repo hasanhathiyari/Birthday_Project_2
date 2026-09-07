@@ -9,7 +9,7 @@ import MemoryVault from "./assets/Pages/MemoryGallery";
 import Quiz from "./assets/Pages/Quiz";
 import TestComplete from "./assets/Pages/Testcomplete";
 import Gift from "./assets/Pages/Gift";
-import FinalMessage from "./assets/Pages/FInalMessage";
+import Fmessage from "./assets/Pages/Fmessage";
 
 
 import PageTransition from "./assets/Components/PageTransition";
@@ -95,7 +95,7 @@ function App() {
         );
 
       case "final-message":
-        return <FinalMessage />;
+        return <Fmessage />;
 
       default:
         return (
