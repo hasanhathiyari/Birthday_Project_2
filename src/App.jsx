@@ -2,7 +2,7 @@ import { useState } from "react";
 
 import PrivateTransmission from "./assets/Pages/PrivateTransmission";
 import LoveQuestion from "./assets/Pages/LoveQuestion";
-import Initializing from "./assets/Pages/Initalizing";
+import Initializing from "./assets/Pages/Initializing";
 import SubjectData from "./assets/Pages/SubjectData";
 import Observations from "./assets/Pages/Observations";
 import MemoryVault from "./assets/Pages/MemoryGallery";
